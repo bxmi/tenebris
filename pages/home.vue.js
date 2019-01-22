@@ -511,25 +511,6 @@ var spahome = Vue.extend({
         </section>
 
 
-
-
-        <section id="" class="section">
-            <div class="container">
-               <div class="row sw">
-                    <div class="col-md-6 sl">
-                       
-                    </div> 
-            <div class="col-md-6">  
-                <div class="tm text-center">
-              <i class="icon-Add-UserStar"><img src="static/a.svg" style="padding-bottom:10px;width:70px"> </i>
-              <h5 class="mt-4 mb-3 color-white">join our team!</h5>
-              <p class="mb-5">We welcome the whole community to actively engage with us.</p>
-              <a href="https://t.me/tenebrisbg" class="m-btn m-btn-theme" target="_blank">join now</a>
-            </div>
-        </div>
-      </div>
-        </section>
-
     </main>
 
 
