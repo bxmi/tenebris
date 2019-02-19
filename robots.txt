@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: / 
-Disallow: /favicon.ico
+
 
 User-agent: ia_archiver
 Disallow: /
